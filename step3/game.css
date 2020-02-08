@@ -1,0 +1,148 @@
+html, body, header, footer, hgroup, nav, article, section, figure,
+figcaption, h1, h2, h3, ul, li, body, div, p, img {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    border: 0;
+    font-family: Arial, sans-serif;
+}
+
+html{
+    background-image: url("cave-background.jpg");
+}
+
+body{
+    background-color: white;
+    background-position: center top;
+    background-repeat: no-repeat;
+    width: 650px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 1em;
+}
+
+header{
+    background-color: #3f3622;
+    color: white;
+    padding: 1em;
+    margin-bottom: 1em;
+}
+
+header h1{
+    font-size: 300%;
+    text-align: center;
+}
+
+body h2, p{
+    text-align: center;
+}
+
+div.room {
+    width: 200px;
+    display: inline-block;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: .5em;
+}
+
+div.room p {
+    color: #3f3622;
+}
+
+.options p{
+    text-align: right;
+    font-family: "Times New Roman";
+}
+
+.options a:link{
+    color: white;
+}
+.options a:visited{
+    color: gray;
+}
+
+.center_pic{
+    padding: .5em;
+    display: block;
+    margin: auto;
+    border: thin solid black;
+}
+
+#inventory {
+    padding-top: 1em;
+    padding-bottom: 0;
+    text-align: center;
+    font-size: 175%;
+}
+
+#description {
+    font-size: 140%;
+    padding-bottom: 1em;
+    padding-top: 1em;
+}
+
+#story {
+    font-size: 140%;
+    padding-bottom: 1em;
+    padding-top: -1em;
+}
+
+
+.bottom_options p{
+    padding-top:1em;
+    padding-bottom: 3em;
+    font-size: 150%;
+    margin-bottom: -2em;
+}
+
+.bottom_options a:link{
+    color: #3f3622;
+}
+.bottom_options a:visited{
+    color: #3f3622;
+}
+
+.start{
+    padding-top: -2em;
+    padding-bottom: 3em;
+    font-size: 150%;
+    margin-bottom: -2em;
+}
+
+.start a:link{
+    color: #3f3622;
+}
+.start a:visited{
+    color: #3f3622;
+}
+
+#welcome {
+    margin-top: 1.5em;
+    margin-bottom: -2em;
+    font-size: 1.5em;
+    padding-right: 12em;
+}
+
+#notallowedtouseinlinecss {
+    font-style: italic;
+    font-size: 1.9em;
+    padding-left: 4.5em;
+    padding-top: .5em;
+    padding-bottom: -5em;
+}
+
+#result {
+    margin-top: 1em;
+    margin-bottom: -2em;
+    font-size: 1.5em;
+    padding-bottom: 2em;
+}
+
+.instructions p{
+    text-align: left;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 1em;
+    font-family: "Times New Roman";
+}
