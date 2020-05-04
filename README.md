@@ -7,3 +7,5 @@ Class also included two majors projects that were team-based and utilized sprint
 Project 1: Who Murdered My Grade? MSU themed clue.
 Project 2: A continuation of project 1, making the board game support multiple game sessions and user logins.
 Semester ended with a practical final. Mine was to create the game SuperLights (directory lights) based on the Japanese game Akari
+Links to all assignments are http://webdev.cse.msu.edu/~kelschbl/DIRECTORYNAME
+Example: http://webdev.cse.msu.edu/~kelschbl/step1
